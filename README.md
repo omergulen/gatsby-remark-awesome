@@ -1,6 +1,5 @@
 # gatsby-remark-awesome
 
-## TL;DR Example
 [Awesome BDD](https://github.com/omergulen/awesome-bdd) into [BDD Tools](https://bdd.tools).
 
 ## Description
