@@ -1,6 +1,7 @@
 {
   "name": "gatsby-remark-awesome",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "keywords": ["bdd", "remark", "markdown", "ast", "awesome"],
   "main": "index.js",
   "repository": "https://github.com/omergulen/gatsby-remark-awesome",
   "author": "@omergulen",
